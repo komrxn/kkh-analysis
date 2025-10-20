@@ -44,7 +44,7 @@ git push -u origin main
 5. Add Environment Variables:
    - Click **"Environment"** tab
    - Add: `FRONTEND_URL` = `https://your-app.vercel.app` (temporary, update later)
-   - Add: `PYTHON_VERSION` = `3.11.0`
+   - Add: `PYTHON_VERSION` = `3.11.9`
 
 6. Click **"Create Web Service"**
 
